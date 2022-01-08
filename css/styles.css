@@ -126,9 +126,6 @@ p {
   margin: 20px;
 }
 
-.carousel-item {
-}
-
 #press {
   background-color: #EF8172;
   padding-bottom: 3%;
@@ -159,6 +156,13 @@ p {
 
 /* Footer Section */
 
+#footer .container-fluid {
+  padding-bottom: 0px;
+}
+
+#footer p {
+  margin-bottom: 100px;
+}
 
 .social-icon {
   margin: 20px 10px;
